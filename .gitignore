@@ -5,8 +5,6 @@ __pycache__/
 .pytest_cache/
 *.pyc
 data_output/
-dataset-json-pagamentos/
-datasets-csv-pedidos/
 spark-warehouse/
 metastore_db/
 derby.log
